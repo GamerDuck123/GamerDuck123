@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-- 📫 How to reach me: Discord
-- 😄 Pronouns: They/Them
--->
+My name is GamerDuck123 (or Duckeh) and I am a mod and plugin developer for minecraft servers whose goal is to create an eco system of mods and plugins that lets anyone run any kind of server they want!
 
 **My Discord:** GamerDuck123
 
